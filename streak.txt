@@ -1,7 +1,12 @@
 This contains all the streaks made :
 
+here:
+    0=not done
+    1=done
+    the number followed by 0/1 is total number of days(videos/topics) completed
 
-23rd October 2021 - 0
+
+23rd October 2021 - 1 9
 24th October 2021 - 0
 25th October 2021 - 0
 26th October 2021 - 0
