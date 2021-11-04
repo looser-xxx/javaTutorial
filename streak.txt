@@ -3,7 +3,7 @@ This contains all the streaks made :
 here:
     0=not done
     1=done
-    the number followed by 0/1 is total number of days(videos/topics) completed
+    the number followed by 0/1 is represents the streak of coding .....
 
 
 23rd October 2021 - 1 1
@@ -21,8 +21,8 @@ here:
 
 
 1st November 2021 - 0 0
-2nd November 2021 - 1 0
-3rd November 2021 - 0
+2nd November 2021 - 1 1
+3rd November 2021 - 1 2
 4th November 2021 - 0
 5th November 2021 - 0
 6th November 2021 - 0
